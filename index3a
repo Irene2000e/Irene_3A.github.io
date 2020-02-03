@@ -1,8 +1,11 @@
-html>
+<html>
 
          <head>
     <title>IRENE</title>
-    
+    <meta charset="UTF-8">
+<meta name="description" content="html5_3A">
+<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+<meta name="author" content="irene_cominotti">
     
         </head>
 
