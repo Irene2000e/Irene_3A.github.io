@@ -1,4 +1,5 @@
-<html>
+<! DOCTYPE html>
+<html lang="it">
 
          <head>
     <title>IRENE</title>
@@ -82,7 +83,7 @@
       
                    <a href="video"></a>
                    <a href=page2.html>collegamento alla seconda pagina</a>
-                <iframe src="https://www.youtube.com/embed/DrDm7u04Fu0?rel=0" framborder="0" allowfullscreen="" aling="right"></iframe>
+                <iframe src="https://www.youtube.com/embed/DrDm7u04Fu0?rel=0" framborder="0" allowfullscreen="" align="right"></iframe>
                         
     
     </body>
@@ -92,4 +93,4 @@
 
 
 
-</html>
+</! DOCTYPE html>
